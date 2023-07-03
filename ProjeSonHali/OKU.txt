@@ -1,0 +1,5 @@
+TaskManagmentSon.bacpac dosyasını sql veritabanına ımport edin.
+C# formlarda bulunan      
+   SqlConnection SqlCon = new SqlConnection(@"Data Source =DESKTOP-0BO7DJ9\SQLEXPRESS;Initial Catalog= TaskManagmentSon;Integrated Security=True");
+sadece Data Source sql adınızı yazınız bu işlemi tüm sayfalarda uygulamayı unutmayın
+iyi çalışmalar :)
